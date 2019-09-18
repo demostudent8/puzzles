@@ -1,2 +1,2 @@
 def leap_year(year):
-    pass
+    return("Party like it's " + str(year))
